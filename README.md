@@ -1,12 +1,11 @@
-Yampee YAML: a PHP library that speaks YAML
+Yampee Translation: a PHP library to translate your website
 =============================================================
 
-What is Yampee YAML ?
+What is Yampee Translation ?
 ----------------------------
 
-Yampee YAML is a PHP library to transform YAML in PHP arrays and to dump PHP arrays in YAML.
-
-This library is based on Fabien Potencier work: [sfYaml](https://github.com/fabpot/yaml).
+Yampee Translation is a PHP library to translate easily and efficiently your website in
+different languages, using the fastest way your server can use.
 
 Documentation
 -------------
@@ -16,4 +15,4 @@ The documentation is to be found in the `doc/` directory.
 About
 -------
 
-Yampee YAML is licensed under the MIT license (see LICENSE file).
+Yampee Translation is licensed under the MIT license (see LICENSE file).
